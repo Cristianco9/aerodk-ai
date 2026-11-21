@@ -1,0 +1,6 @@
+Django==5.2.19
+djangorestframework
+djangorestframework-simplejwt
+django-environ
+django-cors-headers
+psycopg[binary]
